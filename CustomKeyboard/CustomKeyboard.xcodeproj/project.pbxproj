@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3A55544A1BA930D800AF502F /* Keyboard.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3A5554491BA930D800AF502F /* Keyboard.xib */; settings = {ASSET_TAGS = (); }; };
+		3A55544A1BA930D800AF502F /* Keyboard.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3A5554491BA930D800AF502F /* Keyboard.xib */; };
 		3AAA639A1BA9263900E3822E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AAA63991BA9263900E3822E /* AppDelegate.swift */; };
 		3AAA639C1BA9263900E3822E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AAA639B1BA9263900E3822E /* ViewController.swift */; };
 		3AAA639F1BA9263900E3822E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3AAA639D1BA9263900E3822E /* Main.storyboard */; };
@@ -15,6 +15,16 @@
 		3AAA63A41BA9263900E3822E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3AAA63A21BA9263900E3822E /* LaunchScreen.storyboard */; };
 		3AAA63B31BA9283500E3822E /* KeyboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AAA63B21BA9283500E3822E /* KeyboardViewController.swift */; };
 		3AAA63B71BA9283500E3822E /* CalKeyboard.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 3AAA63B01BA9283500E3822E /* CalKeyboard.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		CD8D78371C744E0C00FFC0E5 /* disgustedDrizzy.png in Resources */ = {isa = PBXBuildFile; fileRef = CD8D78361C744E0C00FFC0E5 /* disgustedDrizzy.png */; };
+		CD8D783B1C74544B00FFC0E5 /* mugginDrizzy.png in Resources */ = {isa = PBXBuildFile; fileRef = CD8D783A1C74544B00FFC0E5 /* mugginDrizzy.png */; };
+		CD8D783D1C74558600FFC0E5 /* happyDrizzy.png in Resources */ = {isa = PBXBuildFile; fileRef = CD8D783C1C74558600FFC0E5 /* happyDrizzy.png */; };
+		CD8D783F1C7466E200FFC0E5 /* ColeWorld.png in Resources */ = {isa = PBXBuildFile; fileRef = CD8D783E1C7466E200FFC0E5 /* ColeWorld.png */; };
+		CD8D78431C7468A700FFC0E5 /* Chef.png in Resources */ = {isa = PBXBuildFile; fileRef = CD8D78421C7468A700FFC0E5 /* Chef.png */; };
+		CD8D78451C746C1F00FFC0E5 /* NWTS.png in Resources */ = {isa = PBXBuildFile; fileRef = CD8D78441C746C1F00FFC0E5 /* NWTS.png */; };
+		CD8D78491C746DB900FFC0E5 /* Drake.png in Resources */ = {isa = PBXBuildFile; fileRef = CD8D78481C746DB900FFC0E5 /* Drake.png */; };
+		CD8D784B1C746E6F00FFC0E5 /* WheelinDrizzy.png in Resources */ = {isa = PBXBuildFile; fileRef = CD8D784A1C746E6F00FFC0E5 /* WheelinDrizzy.png */; };
+		CD8D784D1C74736F00FFC0E5 /* KOBE.png in Resources */ = {isa = PBXBuildFile; fileRef = CD8D784C1C74736F00FFC0E5 /* KOBE.png */; };
+		CD8D784F1C74751600FFC0E5 /* YAO.png in Resources */ = {isa = PBXBuildFile; fileRef = CD8D784E1C74751600FFC0E5 /* YAO.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +63,16 @@
 		3AAA63B01BA9283500E3822E /* CalKeyboard.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = CalKeyboard.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		3AAA63B21BA9283500E3822E /* KeyboardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardViewController.swift; sourceTree = "<group>"; };
 		3AAA63B41BA9283500E3822E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CD8D78361C744E0C00FFC0E5 /* disgustedDrizzy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = disgustedDrizzy.png; path = ../../../../../Desktop/disgustedDrizzy.png; sourceTree = "<group>"; };
+		CD8D783A1C74544B00FFC0E5 /* mugginDrizzy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mugginDrizzy.png; path = ../../../../../Desktop/mugginDrizzy.png; sourceTree = "<group>"; };
+		CD8D783C1C74558600FFC0E5 /* happyDrizzy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = happyDrizzy.png; path = ../../../../../Desktop/happyDrizzy.png; sourceTree = "<group>"; };
+		CD8D783E1C7466E200FFC0E5 /* ColeWorld.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ColeWorld.png; path = ../../../../../Desktop/ColeWorld.png; sourceTree = "<group>"; };
+		CD8D78421C7468A700FFC0E5 /* Chef.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Chef.png; path = ../../../../../Desktop/Chef.png; sourceTree = "<group>"; };
+		CD8D78441C746C1F00FFC0E5 /* NWTS.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = NWTS.png; path = ../../../../../Desktop/NWTS.png; sourceTree = "<group>"; };
+		CD8D78481C746DB900FFC0E5 /* Drake.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Drake.png; path = ../../../../../Desktop/Drake.png; sourceTree = "<group>"; };
+		CD8D784A1C746E6F00FFC0E5 /* WheelinDrizzy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = WheelinDrizzy.png; path = ../../../../../Desktop/WheelinDrizzy.png; sourceTree = "<group>"; };
+		CD8D784C1C74736F00FFC0E5 /* KOBE.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = KOBE.png; path = ../../../../../Desktop/KOBE.png; sourceTree = "<group>"; };
+		CD8D784E1C74751600FFC0E5 /* YAO.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = YAO.png; path = ../../../../../Desktop/YAO.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +130,16 @@
 				3AAA63B21BA9283500E3822E /* KeyboardViewController.swift */,
 				3A5554491BA930D800AF502F /* Keyboard.xib */,
 				3AAA63B41BA9283500E3822E /* Info.plist */,
+				CD8D78361C744E0C00FFC0E5 /* disgustedDrizzy.png */,
+				CD8D783A1C74544B00FFC0E5 /* mugginDrizzy.png */,
+				CD8D783C1C74558600FFC0E5 /* happyDrizzy.png */,
+				CD8D783E1C7466E200FFC0E5 /* ColeWorld.png */,
+				CD8D78421C7468A700FFC0E5 /* Chef.png */,
+				CD8D78441C746C1F00FFC0E5 /* NWTS.png */,
+				CD8D78481C746DB900FFC0E5 /* Drake.png */,
+				CD8D784A1C746E6F00FFC0E5 /* WheelinDrizzy.png */,
+				CD8D784C1C74736F00FFC0E5 /* KOBE.png */,
+				CD8D784E1C74751600FFC0E5 /* YAO.png */,
 			);
 			path = CalKeyboard;
 			sourceTree = "<group>";
@@ -204,7 +234,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD8D784F1C74751600FFC0E5 /* YAO.png in Resources */,
+				CD8D783D1C74558600FFC0E5 /* happyDrizzy.png in Resources */,
+				CD8D78371C744E0C00FFC0E5 /* disgustedDrizzy.png in Resources */,
+				CD8D784D1C74736F00FFC0E5 /* KOBE.png in Resources */,
 				3A55544A1BA930D800AF502F /* Keyboard.xib in Resources */,
+				CD8D78431C7468A700FFC0E5 /* Chef.png in Resources */,
+				CD8D78491C746DB900FFC0E5 /* Drake.png in Resources */,
+				CD8D783F1C7466E200FFC0E5 /* ColeWorld.png in Resources */,
+				CD8D784B1C746E6F00FFC0E5 /* WheelinDrizzy.png in Resources */,
+				CD8D783B1C74544B00FFC0E5 /* mugginDrizzy.png in Resources */,
+				CD8D78451C746C1F00FFC0E5 /* NWTS.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
